@@ -1,6 +1,6 @@
 ## Hi , I am  Rahul 👋
 🌟 About Me
-🎓 Computer Science Student at Netaji Subhas University of Technology (NSUT), Delhi</br>
+🎓 Student at Netaji Subhas University of Technology (NSUT), Delhi</br>
 💻 Web Development Enthusiast - Crafting digital experiences with code</br>
 🚀 Always Learning - Exploring new technologies and frameworks</br>
 🌱 Currently Building - Exciting web projects and applications</br>
