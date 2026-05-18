@@ -8,14 +8,22 @@
 
 ###
 
-<p align="left">## 🌙 About Me<br><br>🎓 Student at Netaji Subhas University of Technology (NSUT), Delhi  <br>💻 Full-stack developer focused on backend systems, AI integrations, and modern web apps  <br>🛠️ Building practical projects with clean architecture and user-focused design  <br>🌱 Strengthening my skills through real-world projects, open source, and consistent practice  <br>✨ Passionate about writing clean code and creating meaningful digital experiencesHello World!!<br><br>LinkedIn:- https://www.linkedin.com/in/rahul-rajak-cs/</p>
+<h2 align="left">🌙 About Me</h2>
+
+<p align="left">
+🎓 Student at Netaji Subhas University of Technology (NSUT), Delhi<br>
+💻 Full-stack developer focused on backend systems, AI integrations, and modern web apps<br>
+🛠️ Building practical projects with clean architecture and user-focused design<br>
+🌱 Strengthening my skills through real-world projects, open source, and consistent practice<br>
+✨ Passionate about writing clean code and creating meaningful digital experiences
+</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <a href="www.linkedin.com/in/rahul-rajak-cs" target="_blank">
+  <a href="https://www.linkedin.com/in/rahul-rajak-cs/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="twitter logo"  />
@@ -70,19 +78,25 @@
 
 ###
 
+<h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rahul-rajak-nsut/rahul-rajak-nsut/trophy-output/trophy.svg" height="150" alt="trophy graph" /> <br>
-  <img src="https://raw.githubusercontent.com/rahul-rajak-nsut/rahul-rajak-nsut/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=rahul-rajak-nsut&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=30&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=rahul-rajak-nsut&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" height="150" alt="GitHub trophies" />
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul-rajak-nsut&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats" />
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-rajak-nsut&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=rahul-rajak-nsut&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=20" height="170" alt="GitHub streak" />
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-rajak-nsut&theme=tokyo-night&hide_border=true" height="300" alt="GitHub activity graph" />
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahul-rajak-nsut/rahul-rajak-nsut/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahul-rajak-nsut/rahul-rajak-nsut/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rahul-rajak-nsut/rahul-rajak-nsut/pacman-output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
