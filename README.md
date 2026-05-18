@@ -93,10 +93,6 @@
 
  
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-rajak-nsut&theme=tokyo-night&hide_border=true" height="300" alt="GitHub activity graph" />
-</div>
-  <br><br>
-
   <img src="https://streak-stats.demolab.com?user=rahul-rajak-nsut&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=20" height="170" alt="GitHub streak" />
   <br><br>
 
