@@ -91,10 +91,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rahul-rajak-nsut&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" height="150" alt="GitHub trophies" />
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-rajak-nsut&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats" />
+  <h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahul-rajak-nsut&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" />
+
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-rajak-nsut&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=rahul-rajak-nsut&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=20" height="170" alt="GitHub streak" />
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-rajak-nsut&theme=tokyo-night&hide_border=true" height="300" alt="GitHub activity graph" />
+</div>
   <br><br>
 
   <img src="https://streak-stats.demolab.com?user=rahul-rajak-nsut&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=20" height="170" alt="GitHub streak" />
