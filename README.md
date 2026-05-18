@@ -4,13 +4,13 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTh4dW5ueGFhZWxiOXBtMmNqYTR5OWRpeGk5bGI1b280cWR2ZGFodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-###
+<h2>🌙 About Me</h2>
 
-<h2 align="left">🌙 About Me</h2>
-
-<p align="left">
+<p>
 🎓 Student at Netaji Subhas University of Technology (NSUT), Delhi<br>
 💻 Full-stack developer focused on backend systems, AI integrations, and modern web apps<br>
 🛠️ Building practical projects with clean architecture and user-focused design<br>
@@ -18,7 +18,14 @@
 ✨ Passionate about writing clean code and creating meaningful digital experiences
 </p>
 
-###
+</td>
+<td width="40%" align="center">
+
+<img height="260" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTh4dW5ueGFhZWxiOXBtMmNqYTR5OWRpeGk5bGI1b280cWR2ZGFodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" />
+
+</td>
+  </tr>
+</table>
 
 <br clear="both">
 
