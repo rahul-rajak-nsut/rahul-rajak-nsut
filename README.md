@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Hi%2C%20I'm%20Rahul%20👋&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20Open%20Source%20Contributor&descSize=20&descColor=CBD5E1&descAlign=50&descAlignY=60&animation=twinkling" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Rahul+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Contributor;AI+%26+Backend+Enthusiast" alt="Typing SVG" />
+
 </div>
 
 <br>
@@ -52,19 +54,13 @@
 <h2>🖥️ Frontend</h2>
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="react" title="React" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="50" alt="nextjs" title="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="typescript" title="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="javascript" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss" title="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3" title="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="40" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="40" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" height="40" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" height="40" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" alt="CSS3" />
 </div>
 
 ###
@@ -72,15 +68,11 @@
 <h2>⚙️ Backend</h2>
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs" title="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/FFFFFF" height="50" alt="express" title="Express.js" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="50" alt="python" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="50" alt="fastapi" title="FastAPI" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java" title="Java" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="40" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="40" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" height="40" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="40" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="Java" />
 </div>
 
 ###
@@ -88,15 +80,11 @@
 <h2>🗄️ Databases</h2>
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="mongodb" title="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql" title="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql" title="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/redis/FF4438" height="50" alt="redis" title="Redis" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/5A67D8" height="50" alt="prisma" title="Prisma" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="40" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="40" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="40" alt="Redis" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="40" alt="Prisma" />
 </div>
 
 ###
@@ -104,15 +92,11 @@
 <h2>🤖 AI & Integrations</h2>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="50" alt="openai" title="OpenAI API" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" height="50" alt="anthropic" title="Anthropic / Claude API" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="50" alt="langchain" title="LangChain" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="50" alt="ollama" title="Ollama" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" height="50" alt="huggingface" title="Hugging Face" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude_(Anthropic)-000000?style=for-the-badge&logo=anthropic&logoColor=white" height="40" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="40" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="40" alt="Ollama" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" height="40" alt="HuggingFace" />
 </div>
 
 ###
@@ -120,19 +104,13 @@
 <h2>🛠️ DevOps & Tools</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git" title="Git" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="50" alt="github" title="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="docker" title="Docker" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="50" alt="linux" title="Linux" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="50" alt="vercel" title="Vercel" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="postman" title="Postman" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="50" alt="vscode" title="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" height="40" alt="Linux" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="40" alt="VS Code" />
 </div>
 
 ###
