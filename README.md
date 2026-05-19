@@ -11,7 +11,7 @@
 <h2>🌙 About Me</h2>
 
 <p>
-🎓 Student at Netaji Subhas University of Technology (NSUT), Delhi<br>
+🎓 Student at Netaji Subhas University of Technology (NSUT'28), Delhi<br>
 💻 Full-stack developer focused on backend systems, AI integrations, and modern web apps<br>
 🛠️ Building practical projects with clean architecture and user-focused design<br>
 🌱 Strengthening my skills through real-world projects, open source, and consistent practice<br>
